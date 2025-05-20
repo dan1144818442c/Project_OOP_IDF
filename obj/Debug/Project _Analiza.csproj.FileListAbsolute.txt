@@ -1,0 +1,2 @@
+C:\Users\1\source\repos\class1\Project _Analiza\Project _Analiza\obj\Debug\Project _Analiza.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\class1\Project _Analiza\Project _Analiza\obj\Debug\Project _Analiza.csproj.CoreCompileInputs.cache

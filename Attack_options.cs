@@ -11,16 +11,16 @@ namespace Project__Analiza
         protected string aunique_name;
         protected int Ammunition_capacity;
         protected int Fuel_supply;
-        protected object[] Effective_target;  
+        protected Type[] Effective_target;  
 
-        public Attack_options(string aunique_name , int Ammunition_capacity, int Fuel_supply , object[] Effective_target) {
+        public Attack_options(string aunique_name , int Ammunition_capacity, int Fuel_supply ) {
             this.aunique_name = aunique_name;
             this.Ammunition_capacity = Ammunition_capacity;
             this.Fuel_supply = Fuel_supply;
-            this.Effective_target = Effective_target;
 
         }
        
+
 
     }
 }
