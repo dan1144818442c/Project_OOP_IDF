@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Project__Analiza
 {
-    internal class Program
+    internal class Aman:Unit
     {
-        static void Main(string[] args)
-        {
-
-        }
+        
     }
 }

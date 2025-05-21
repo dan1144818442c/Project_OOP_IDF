@@ -12,7 +12,7 @@ namespace Project__Analiza
         protected string last_name;
         protected int age;
 
-        public  Person(string first_name  , string last_name, int age)
+        public Person(string first_name, string last_name, int age)
         {
             this.first_name = first_name;
             this.last_name = last_name;
@@ -23,3 +23,5 @@ namespace Project__Analiza
 
     }
 }
+
+
