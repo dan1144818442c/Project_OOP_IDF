@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project__Analiza
 {
-    internal class Program
+    internal class idf
     {
-        static void Main(string[] args)
-        {
-        }
-
     }
 }

@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project__Analiza
 {
-    internal class Program
+    internal class Hamas
     {
-        static void Main(string[] args)
-        {
-        }
-
     }
 }
